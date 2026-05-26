@@ -21,4 +21,10 @@
     <Resource Include="admlogo.PNG" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="KindLetter.docx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
